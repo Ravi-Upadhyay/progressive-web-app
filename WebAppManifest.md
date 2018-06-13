@@ -8,10 +8,26 @@ According to [Google Web Fundamentals](https://developers.google.com/web/fundame
 
 A typical manifest file includes information about the app name, icons it should use, the start_url it should start at when launched, and more.
 
-### Points to ponder:
+### How to do the things:
 
-* 
+* Create the `manifest.json` file.
+* Tell browser about manifest file by add a link to all pages.
+    - ```
+    <link rel="manifest" href="/manifest.json">
+    ```
+* Key properties of `manifest.json` file
+    - short_name or name
+    - icons
+    - start_url
+    - background_color
+    - display
+    - orientation
+    - scope
+    - theme_color
+* Splash Screen
+* Test your Manifest
 
 ### Sources Over Web: 
 
 1. [Google Web Fundamentals](https://developers.google.com/web/fundamentals/web-app-manifest/)
+2. [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/Manifest)
