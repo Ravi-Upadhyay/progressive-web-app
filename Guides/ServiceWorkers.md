@@ -6,6 +6,25 @@
 
 Here We have two approaches to follow. One specifically to PWAs i.e. How service workers enables offline experience. Another, service workers in general. I am following two guides first one is GWFs which is more directed towards using service workers. Another is MDN, which is all about service workers.
 
+### What are Service Workers Again
+
+- A `service worker` is a script that runs in the background, separate from your web page.
+- It responds to events, including network requests made from pages it serves.
+- It has an intentionally short lifetime. 
+- It wakes up when it gets an event and runs only as long as it needs to process it.
+- It has limited access to APIs when compared to javascript run from context of a page.
+- It can’t access the `DOM` but access things like the `Cache`, `Storage API`.
+- It can make network calls using `Fetch API`.
+- The `IndexedDB API` and `postMessage()` are also available to use for data persistence and messaging between the `service worker` and pages it controls.
+- It is an event-driven `worker` registered against an origin and a path.
+
+### Lifecycle of Service Workers
+
+### Sources on the Web
+
+1. [Introduction to Service Workers, GWF](https://developers.google.com/web/fundamentals/primers/service-workers/)
+2. [Service Worker API, MDN](https://developer.mozilla.org/en-US/docs/Web/API/Service_Worker_API)
+
 
 
 __//TODO: Have to Add Proper Documentation__

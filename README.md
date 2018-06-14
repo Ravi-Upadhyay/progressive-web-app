@@ -56,6 +56,7 @@ Here we will follow [Google Web Fundamentals](https://developers.google.com/web/
 2. [Web App Manifest](https://developers.google.com/web/fundamentals/web-app-manifest/)
 3. [App Shell Model](https://developers.google.com/web/fundamentals/architecture/app-shell)
 
+## Author and Licence Information
 
-
+__TODO: Add proper information for this section__
 
