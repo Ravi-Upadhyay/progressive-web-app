@@ -19,8 +19,8 @@ This new level of quality allows Progressive Web Apps to earn a place on the use
 
 ### Components of PWA:
 
-1. [Service Workers]()
-2. [Web App Manifest](WebAppManifest)
+1. [Service Workers](ServiceWorkers.md)
+2. [Web App Manifest](WebAppManifest.md)
 3. [Web Push Notification]()
 
 ### Why PWA? 
