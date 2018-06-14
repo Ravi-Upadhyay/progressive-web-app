@@ -39,12 +39,16 @@ Here we will follow [Google Web Fundamentals](https://developers.google.com/web/
     - Integrated
     - Reliable 
     - Engaging
+* __App Shell Model__
+    - The App Shell Architecture is one way to build PWA. The App "shell" is the minimal HTML, CSS and Javascript required to power the user interface and when cached offline can ensure __instant, reliably good
+    performance__.[App Shell](AppShellModel)
 
 
 ### Sources Over Web:
 
-1. [Google Web Fundamentals](https://developers.google.com/web/progressive-web-apps/)
+1. [PWA: Google Web Fundamentals](https://developers.google.com/web/progressive-web-apps/)
 2. [Web App Manifest](https://developers.google.com/web/fundamentals/web-app-manifest/)
+3. [App Shell Model](https://developers.google.com/web/fundamentals/architecture/app-shell)
 
 
 
