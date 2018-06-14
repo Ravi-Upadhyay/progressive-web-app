@@ -9,19 +9,17 @@ Objective is to have one place to learn, experiment and store notes for future r
 According to [Google Web Fundamentals](https://developers.google.com/web/progressive-web-apps/):
 
 > Progressive Web Apps are user experiences that have the reach of the web, and are:
-
 _Reliable_ - Load instantly and never show the downasaur, even in uncertain network conditions.
-
 _Fast_ - Respond quickly to user interactions with silky smooth animations and no janky scrolling.
-
 _Engaging_ - Feel like a natural app on the device, with an immersive user experience.
 This new level of quality allows Progressive Web Apps to earn a place on the user's home screen.
 
 ### Components of PWA:
 
-1. [Service Workers](ServiceWorkers.md)
-2. [Web App Manifest](WebAppManifest.md)
+1. [Service Workers](Guides/ServiceWorkers.md)
+2. [Web App Manifest](Guides/WebAppManifest.md)
 3. [Web Push Notification]()
+4. [AppShellModel](Guides/AppShellModel.md)
 
 ### Why PWA? 
 
@@ -30,9 +28,17 @@ This new level of quality allows Progressive Web Apps to earn a place on the use
 *  Increased Engagement
 *  Improved Conversions
 
-### Structure
+### Index:
 
-Here we will follow [Google Web Fundamentals](https://developers.google.com/web/fundamentals/)'s Complete Tutorial.
+1. Guides or Documentation
+    - [AppShellModel](Guides/AppShellModel.md)
+    - [Service Workers](Guides/ServiceWorkers.md)
+    - [Web App Manifest](Guides/WebAppManifest.md)
+2. Projects or Hands On
+
+### Project Structure:
+
+Here we will follow [Google Web Fundamentals](https://developers.google.com/web/fundamentals/)'s Complete Tutorial. However for underlying concepts in guides we will follow other channels such as MDN and others
 
 * __Core Foundation of delightful web experience.__ _Together we can remember "FIRE"_
     - Fast
@@ -41,7 +47,7 @@ Here we will follow [Google Web Fundamentals](https://developers.google.com/web/
     - Engaging
 * __App Shell Model__
     - The App Shell Architecture is one way to build PWA. The App "shell" is the minimal HTML, CSS and Javascript required to power the user interface and when cached offline can ensure __instant, reliably good
-    performance__.[App Shell](AppShellModel)
+    performance__.[App Shell](Guides/AppShellModel.md)
 
 
 ### Sources Over Web:
