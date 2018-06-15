@@ -1,4 +1,4 @@
-# Service Workers
+# Service Workers __//TODO: Continue From Service Workers Lifecycle__
 
 > Service workers essentially act as proxy servers that sit between web applications, the browser, and the network (when available). They are intended, among other things, to enable the creation of effective offline experiences, intercept network requests and take appropriate action based on whether the network is available, and update assets residing on the server. They will also allow access to push notifications and background sync APIs. Says MDN
 
@@ -20,11 +20,13 @@ Here We have two approaches to follow. One specifically to PWAs i.e. How service
 
 ### Lifecycle of Service Workers
 
+
+
 ### Sources on the Web
 
 1. [Introduction to Service Workers, GWF](https://developers.google.com/web/fundamentals/primers/service-workers/)
 2. [Service Worker API, MDN](https://developer.mozilla.org/en-US/docs/Web/API/Service_Worker_API)
+3. [Service Workers Cookbook](https://serviceworke.rs/)
 
 
 
-__//TODO: Have to Add Proper Documentation__
