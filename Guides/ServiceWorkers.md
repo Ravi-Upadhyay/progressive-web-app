@@ -20,7 +20,7 @@ Here We have two approaches to follow. One specifically to PWAs i.e. How service
 
 ### Lifecycle of Service Workers
 
-
+![Service Worker Life Cycle](Images\sw-lifecycle.png)
 
 ### Sources on the Web
 
