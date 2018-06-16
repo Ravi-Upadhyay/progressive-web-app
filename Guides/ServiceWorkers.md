@@ -20,7 +20,13 @@ Here We have two approaches to follow. One specifically to PWAs i.e. How service
 
 ### Lifecycle of Service Workers
 
-![Service Worker Life Cycle](https://github.com/Ravi-Upadhyay/progressive-web-app/blob/master/Guides/Images/sw-lifecycle.png)
+To understand service workers completely we may need to understand its life cycle. On a broad scope it constitute of three steps:
+
+1. Download
+2. Install
+3. Activate
+
+![Service Worker Life Cycle](https://github.com/Ravi-Upadhyay/progressive-web-app/blob/master/Guides/Images/ServiceWorkerLifeCycle.png)
 
 ### Sources on the Web
 
