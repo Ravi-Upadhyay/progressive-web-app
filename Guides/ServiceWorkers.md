@@ -49,7 +49,8 @@ For more details [Read More- MDN](https://developer.mozilla.org/en-US/docs/Web/A
 2. [Service Worker API, MDN](https://developer.mozilla.org/en-US/docs/Web/API/Service_Worker_API)
 3. [Service Workers Cookbook](https://serviceworke.rs/)
 4. [Using Service Workers, MDN](https://developer.mozilla.org/en-US/docs/Web/API/Service_Worker_API/Using_Service_Workers)
-5. 
+5. [Check Browser Compatibility](https://jakearchibald.github.io/isserviceworkerready/)
+6. [Mozilla's SSL Config Generator](https://mozilla.github.io/server-side-tls/ssl-config-generator/)
 
 
 
